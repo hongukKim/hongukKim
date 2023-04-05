@@ -1,10 +1,15 @@
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Honguk%20GitHub!&fontSize=90" />
+
 Who am I ?
 ---
 ## Profile
-<span style="font-size:10%">폰트사이즈 50</span>  
+Name: 김홍욱(KimHongUk)
+Email: dev.ukidugi@gmail.com
+github: github.com/hongukKim
+
+
 ### Hi there 👋
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Honguk%20GitHub!&fontSize=90" />
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Honguk%20GitHub!&fontSize=90" />
+
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
 <!--
