@@ -6,7 +6,7 @@ Who am I ?
 ## Profile
 Name: 김홍욱(KimHongUk)<br>
 Email: dev.ukidugi@gmail.com<br>
-github: github.com/hongukKim<br>
+github: github.com/HongUkKim<br>
 
 
 ## Stacks
